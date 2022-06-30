@@ -48,4 +48,4 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 
-st.image("https://github.com/Amin0502/IRIS-_Classification/blob/main/iris-machinelearning.png")
+st.image("https://raw.githubusercontent.com/Amin0502/IRIS-_Classification/main/iris-machinelearning.png")
